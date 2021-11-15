@@ -1,0 +1,24 @@
+.mySlides {display:none}
+
+.imgS{
+	border-radius: 8px;
+	display: blocked;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.slideshowContainer{
+	border-radius: 8px;
+	display: blocked;
+	margin: relative;
+	width: 50%;
+}
+.linkPag {
+	color: red;
+	font-size: 35px;
+	padding: 8px 12 px;
+	position: absolute;
+	bottom: 380px;
+	width: 100%;
+	text-align: centre;
+}
